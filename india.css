@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+.sec{
+    height: 32vh;
+    width: 100vw;
+    
+    background-color:orange;
+
+    
+}
+.first{
+    height: 24vh;
+    width: 24vh;
+    border-radius: 12vh;
+    background-color: blue;
+    margin-left :40vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    
+} 
+.thi{
+    height: 34vh;
+    width: 100vw;
+    background-color: green;
+}
